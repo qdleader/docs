@@ -89,4 +89,4 @@ jobs:
                   TOKEN: ${{ secrets.ACCESS_TOKENone }}
                   # # 部署到GitHub的不同仓库 <用户名>/<仓库名>
                   # # 此选项必须配置了TOKEN才能正常执行
-                  # REPOSITORY-NAME: leoleor/leo2
+                  REPOSITORY-NAME: qdleader/docs
