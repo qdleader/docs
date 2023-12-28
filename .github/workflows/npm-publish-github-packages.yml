@@ -23,7 +23,7 @@ jobs:
         # 每个任务下的运行步骤，短横杠 - 表示一个步骤，从上至下依次执行。
         steps:
             # clone 该仓库的源码到工作流中
-            # - name: Clone Code
+            - name: Clone Code
               uses: actions/checkout@v2
               # with:
               #     # "最近更新时间"等 git 日志相关信息，需要拉取全部提交记录
