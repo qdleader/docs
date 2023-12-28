@@ -2,7 +2,7 @@
 name: Auto Deploy
 
 # 从工作流生成的工作流运行的名称，如果省略，则使用提交时的commit信息
-run-name: Deploy by @${{ github.actor }}
+# run-name: Deploy by @${{ github.actor }}
 
 # 触发部署的条件
 on:
@@ -50,7 +50,7 @@ jobs:
             - name: Install dependencies
               # 如果没有命中缓存才执行 npm install
               if: steps.cache-deps.outputs.cache-hit != 'true'
-              run: npm install
+              run: pnpm install
 
             # 如果你的依赖是使用yarn的，用这种
             # 缓存 yarn node_modules
