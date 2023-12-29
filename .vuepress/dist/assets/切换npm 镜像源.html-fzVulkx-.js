@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-2a8c2588","path":"/npm/%E5%88%87%E6%8D%A2npm%20%E9%95%9C%E5%83%8F%E6%BA%90.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"npm/切换npm 镜像源.md"}');export{t as data};

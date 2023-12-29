@@ -3,16 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-    "scripts": {
-      "dev": "vuepress dev",
-      "build": "vuepress build"
-    },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@vuepress/client": "2.0.0-rc.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
     "vue": "^3.3.13",
-    "vuepress": "2.0.0-rc.0"
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-plugin-auto-catalog": "2.0.0-rc.7",
+    "vuepress-sidebar-atuo": "^1.0.4"
   }
 }

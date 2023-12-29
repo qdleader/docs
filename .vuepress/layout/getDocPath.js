@@ -2,8 +2,10 @@
    * 获取目录下的所有文件的相对路径
    * 解决路由名称枚举问题
    */
- const fs = require('fs')
- const path = require('path')
+//  const fs = require('fs')
+ import fs from 'fs'
+ import path from 'path'
+//  const path = require('path')
  function getDocPath(title,collapsable,relateivePath) {
    const absolutePath = path.join(__dirname, '../' + relateivePath)
    const files = fs.readdirSync(absolutePath)
