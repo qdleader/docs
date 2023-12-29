@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-47f888db","path":"/npm/%E5%A5%BD%E7%94%A8%E7%9A%84npm%E6%8F%92%E4%BB%B6/","title":"好用的npm插件","lang":"zh-CN","frontmatter":{"title":"好用的npm插件"},"headers":[],"git":{},"filePathRelative":null}');export{t as data};

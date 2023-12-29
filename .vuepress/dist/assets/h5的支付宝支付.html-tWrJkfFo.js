@@ -1,4 +1,4 @@
-import{_ as e,o as n,c as i,a as d}from"./app-9rky8OyZ.js";const s={},a=d(`<p>h5吊起支付宝app支付 （前端实现）</p><p>后端按照支付宝官网会返回一个form表单</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>// 支付宝H5支付
+import{_ as e,o as n,c as i,a as d}from"./app-4jNy44S_.js";const s={},a=d(`<p>h5吊起支付宝app支付 （前端实现）</p><p>后端按照支付宝官网会返回一个form表单</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>// 支付宝H5支付
    async malipaynewPay() {
 
       // 这个接口是你们自己写的接口，成功后会返回一个form表单

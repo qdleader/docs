@@ -1,4 +1,4 @@
-import{_ as e,o as n,c as i,a as s}from"./app-EwkMEanJ.js";const d={},l=s(`<p>微信内支付用sdk，这在微信公众开发的文章已详细提到。 我们在这说一下，微信外浏览器微信支付。</p><p>我们在这先判断是微信内浏览器还是微信外浏览器。</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>// 判断是否公众号（微信H5）
+import{_ as e,o as n,c as i,a as s}from"./app-4jNy44S_.js";const d={},l=s(`<p>微信内支付用sdk，这在微信公众开发的文章已详细提到。 我们在这说一下，微信外浏览器微信支付。</p><p>我们在这先判断是微信内浏览器还是微信外浏览器。</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>// 判断是否公众号（微信H5）
   isWechat() {
       // #ifdef H5
       const ua = window.navigator.userAgent.toLowerCase();

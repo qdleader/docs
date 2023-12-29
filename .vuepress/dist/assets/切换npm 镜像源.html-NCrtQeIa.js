@@ -1,8 +1,4 @@
-<<<<<<< HEAD:.vuepress/dist/assets/切换npm 镜像源.html-PymaDPkw.js
-import{_ as s,o as n,c as e,a}from"./app-9rky8OyZ.js";const r={},i=a(`<div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token operator">--</span> 查看当前地址：
-=======
-import{_ as s,o as n,c as e,a}from"./app-EwkMEanJ.js";const r={},i=a(`<div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token operator">--</span> 查看当前地址：
->>>>>>> bcdf61aa103e3d08c2a5829963b9e02491bcea3f:.vuepress/dist/assets/切换npm 镜像源.html-pU-txJAx.js
+import{_ as s,o as n,c as e,a}from"./app-4jNy44S_.js";const r={},i=a(`<div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token operator">--</span> 查看当前地址：
 npm config <span class="token keyword">get</span> registry
 https<span class="token operator">:</span><span class="token operator">/</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">registry.npmjs.org</span><span class="token regex-delimiter">/</span></span>
  
