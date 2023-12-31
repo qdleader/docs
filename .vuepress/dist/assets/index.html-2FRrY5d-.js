@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-62f9417c","path":"/npm/%E5%A5%BD%E7%94%A8%E7%9A%84npm%E6%8F%92%E4%BB%B6/swiper/","title":"Swiper","lang":"zh-CN","frontmatter":{"title":"Swiper"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};

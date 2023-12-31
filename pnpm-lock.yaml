@@ -2,6 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@vuepress/client': 2.0.0-rc.0
+  '@vuepress/theme-default': ^2.0.0-rc.0
   fs: 0.0.1-security
   path: ^0.12.7
   vue: ^3.3.13
@@ -11,6 +12,7 @@ specifiers:
 
 devDependencies:
   '@vuepress/client': registry.npmmirror.com/@vuepress/client/2.0.0-rc.0
+  '@vuepress/theme-default': registry.npmmirror.com/@vuepress/theme-default/2.0.0-rc.0
   fs: registry.npmmirror.com/fs/0.0.1-security
   path: registry.npmmirror.com/path/0.12.7
   vue: registry.npmmirror.com/vue/3.3.13
