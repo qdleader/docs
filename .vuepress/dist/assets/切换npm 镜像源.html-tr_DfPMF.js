@@ -1,4 +1,4 @@
-import{_ as s,o as n,c as e,a}from"./app-btjq3CKZ.js";const r={},i=a(`<div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token operator">--</span> 查看当前地址：
+import{_ as s,o as n,c as e,a}from"./app-NamXo8Cq.js";const r={},i=a(`<div class="language-typescript line-numbers-mode" data-ext="ts"><pre class="language-typescript"><code><span class="token operator">--</span> 查看当前地址：
 npm config <span class="token keyword">get</span> registry
 https<span class="token operator">:</span><span class="token operator">/</span><span class="token regex"><span class="token regex-delimiter">/</span><span class="token regex-source language-regex">registry.npmjs.org</span><span class="token regex-delimiter">/</span></span>
  
