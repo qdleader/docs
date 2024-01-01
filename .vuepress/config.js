@@ -1,7 +1,8 @@
 import { defineUserConfig } from "vuepress"
 import { defaultTheme } from "@vuepress/theme-default"
 import { navbar } from "./navbar.js"
-import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog"
+import { searchPlugin } from "@vuepress/plugin-search"
+// import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog"
 
 export default defineUserConfig({
 	lang: "zh-CN",
@@ -38,4 +39,9 @@ export default defineUserConfig({
 			},
 		],
 	},
+	plugins: [
+		searchPlugin({
+			// 配置项
+		}),
+	],
 })
