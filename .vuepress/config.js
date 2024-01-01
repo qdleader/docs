@@ -5,6 +5,7 @@ import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog"
 
 export default defineUserConfig({
 	lang: "zh-CN",
+	base: "/docs/",
 	title: "你好， qdleader ！",
 	description: "qdleader,前端面试题大全, 编程学习路线, 编程知识百科, Java, 编程导航, 前端, 开发, 编程分享, 项目, IT, 求职, 面经",
 	// plugins: [
