@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2a8c2588","path":"/npm/%E5%88%87%E6%8D%A2npm%20%E9%95%9C%E5%83%8F%E6%BA%90.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704073926000,"contributors":[{"name":"前端架构师","email":"62106726+qdleader@users.noreply.github.com","commits":1}]},"filePathRelative":"npm/切换npm 镜像源.md"}');export{e as data};
