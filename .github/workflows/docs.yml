@@ -12,8 +12,8 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            # - uses: actions/checkout@v4
-            - uses: actions/checkout@v2.3.1
+            - uses: actions/checkout@v4
+              # - uses: actions/checkout@v2.3.1
               with:
                   # “最近更新时间” 等 git 日志相关信息，需要拉取全部提交记录
                   fetch-depth: 0
@@ -35,17 +35,17 @@ jobs:
                   cache: pnpm
 
             # 运行构建脚本
-              - name: Install and Build 🔧
-              run: |
-                  npm install
-                  npm run build
-              env:
-                  NODE_OPTIONS: "--max_old_space_size=4096"
-            # - name: Build VuePress site
-            #    run: |
-            #       pnpm install
-            #       pnpm run build
-            #   run: pnpm run build
+            #   - name: Install and Build 🔧
+            #   run: |
+            #       npm install
+            #       npm run build
+            #   env:
+            #       NODE_OPTIONS: "--max_old_space_size=4096"
+            - name: Build VuePress site
+              #    run: |
+              #       pnpm install
+              #       pnpm run build
+              run: pnpm run build
 
             # 查看 workflow 的文档来获取更多信息
             # @see https://github.com/crazy-max/ghaction-github-pages
