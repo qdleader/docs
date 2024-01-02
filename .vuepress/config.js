@@ -2,7 +2,10 @@ import { defineUserConfig } from "vuepress"
 import { defaultTheme } from "@vuepress/theme-default"
 import { navbar } from "./navbar.js"
 import { searchPlugin } from "@vuepress/plugin-search"
-// import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog"
+import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
+import { nprogressPlugin } from '@vuepress/plugin-nprogress'
+import { clipboardPlugin } from 'vuepress-plugin-clipboard'
+// import { copyCodePlugin } from "vuepress-plugin-copy-code2";
 
 export default defineUserConfig({
 	lang: "zh-CN",
@@ -55,5 +58,8 @@ export default defineUserConfig({
 			// 允许搜索 Frontmatter 中的 `tags`
 			getExtraFields: (page) => page.frontmatter.tags ?? [],
 		}),
-	],
+		backToTopPlugin(),
+		nprogressPlugin(),
+		clipboardPlugin({})
+	],	
 })
