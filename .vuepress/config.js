@@ -28,6 +28,17 @@ export default defineUserConfig({
 			},
 			['meta', {name: 'referrer', content: 'no-referrer-when-downgrade'}],
 		],
+		[
+			"script",
+			{},
+			`var _hmt = _hmt || [];
+			(function() {
+			var hm = document.createElement("script");
+			hm.src = "https://hm.baidu.com/hm.js?c448e2224bfefb1edc964cdd6e7b1175";
+			var s = document.getElementsByTagName("script")[0]; 
+			s.parentNode.insertBefore(hm, s);
+			})()`
+		],
 	],
 	theme: defaultTheme({
 		navbar,
