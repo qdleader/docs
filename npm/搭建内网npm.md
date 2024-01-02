@@ -1,3 +1,5 @@
+# 搭建内网npm
+
 ## Verdaccio 搭建 npm 私有仓库
 
 为什么要搭建私有仓库？
@@ -14,13 +16,15 @@ Verdaccio 是一个 Node.js 创建的轻量级 npm 仓库（就是一个应用�
 提示：推荐使用 nvm 管理 node 版本；安装 nvm
 
 安装 Verdaccio
-# 必须要加 -g 全局安装
-npm install verdaccio -g
-安装成功之后随即在命令行输出 
-``
-verdaccio 
 
-```js
+## 必须要加 -g 全局安装
+```shell
+npm install verdaccio -g
+```
+
+安装成功之后随即在命令行输入 verdaccio 
+
+```shell
 [root@hecs-3429401 ~]# verdaccio
 
  info --- config file  - /root/.config/verdaccio/config.yaml
@@ -43,18 +47,23 @@ verdaccio 默认启动：默认占用 4873 端口（使用云服务器的小伙�
 
 
 
-使用 pm2 管理 verdaccio
+## 使用 pm2 管理 verdaccio
 
-下载：npm install pm2 -g
+#### 下载：
+```shell
+npm install pm2 -g
+```
 
 
 
-
+```shell
 pm2 start verdaccio
+```
 
-# 内存使用超过上限自动重启
+## 内存使用超过上限自动重启
+```shell
 pm2 start verdaccio --name verdaccio --watch --max-memory-restart 16G  -i 0
-
+```
 
 
 此时在浏览器访问 http://你服务器ip:4873  就可以看到欢迎页面了

@@ -1,3 +1,5 @@
+# 切换npm 镜像源
+
 ```ts
 -- 查看当前地址：
 npm config get registry
@@ -16,10 +18,10 @@ npm config set registry https://registry.npmjs.org/
 -- 每次执行命令前加入–registry指定仓库路径
 npm --registry https://registry.npm.taobao.org install
  
-# 使用nrm工具切换淘宝源
+## 使用nrm工具切换淘宝源
 npx nrm use taobao
  
-# 如果之后需要切换回官方源可使用
+## 如果之后需要切换回官方源可使用
 npx nrm use npm
 ```
 

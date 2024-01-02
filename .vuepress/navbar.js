@@ -26,6 +26,10 @@ export const navbar = [
 				text: "json中库的版本号详解",
 				link: "/npm/package.json中库的版本号详解(^和~区别).md",
 			},
+			{
+				text: "packagejson常用字段介绍",
+				link: "/npm/packagejson常用字段介绍.md",
+			},
 		],
 	},
 	{

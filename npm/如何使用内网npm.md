@@ -1,4 +1,4 @@
-## 为什么要搭建私有仓库？
+# 为什么要搭建私有仓库？
 
 日常开发中我们肯定会封装一些通用组件，大部分情况下都会存在于 components 目录下；试想一下如果我们有两个系统 A 和 B，此时这两个系统都要用到的组件我们该如何封装呢？
 
@@ -29,7 +29,7 @@ npm config set registry http://vuereact.top:4873
 
 
 
- 常用的镜像地址
+ ## 常用的镜像地址
 
 -- 设置当前地址（设置为淘宝镜像）
 npm config set registry http://registry.npm.taobao.org/
