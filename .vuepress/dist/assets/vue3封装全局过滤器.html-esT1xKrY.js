@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-63e1b2ab","path":"/vue3/vue3%E5%B0%81%E8%A3%85%E5%85%A8%E5%B1%80%E8%BF%87%E6%BB%A4%E5%99%A8.html","title":"1. 挂载到全局属性globalProperties上面","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue3/vue3封装全局过滤器.md"}');export{e as data};

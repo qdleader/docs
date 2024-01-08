@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-06a7def0","path":"/vue/vuex/V003-mapActions%E5%A6%82%E4%BD%95%E4%BC%A0%E5%8F%82.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue/vuex/V003-mapActions如何传参.md"}');export{t as data};

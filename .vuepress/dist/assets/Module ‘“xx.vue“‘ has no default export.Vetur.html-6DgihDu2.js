@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-60592db3","path":"/vue3/Module%20%E2%80%98%E2%80%9Cxx.vue%E2%80%9C%E2%80%98%20has%20no%20default%20export.Vetur.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue3/Module ‘“xx.vue“‘ has no default export.Vetur.md"}');export{e as data};

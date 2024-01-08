@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-147db4ae","path":"/vue3/vue3%E7%9A%84setup%E8%AF%AD%E6%B3%95%E7%B3%96.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue3/vue3的setup语法糖.md"}');export{e as data};

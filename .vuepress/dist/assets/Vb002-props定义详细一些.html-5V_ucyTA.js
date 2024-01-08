@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-571b23a9","path":"/vue/vue%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/Vb002-props%E5%AE%9A%E4%B9%89%E8%AF%A6%E7%BB%86%E4%B8%80%E4%BA%9B.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue/vue最佳实践/Vb002-props定义详细一些.md"}');export{e as data};

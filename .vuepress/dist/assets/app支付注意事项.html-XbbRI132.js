@@ -1,1 +1,0 @@
-import{_ as e,o as _,c as t,a as c}from"./app-tgHnmF2J.js";const o={},s=c("p",null,"直接打包 到手机的debugger版本的app是不能进行付款的，要上传到testflighte,才可以吊起微信支付。",-1),a=[s];function n(r,l){return _(),t("div",null,a)}const d=e(o,[["render",n],["__file","app支付注意事项.html.vue"]]);export{d as default};

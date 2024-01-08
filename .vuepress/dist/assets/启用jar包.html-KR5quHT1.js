@@ -1,0 +1,9 @@
+import{_ as a,o as s,c as n,d as e}from"./app-C59QzqDT.js";const i={},r=e(`<h2 id="长期启用" tabindex="-1"><a class="header-anchor" href="#长期启用" aria-hidden="true">#</a> 长期启用</h2><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>nohup java <span class="token operator">-</span>jar adminApi<span class="token operator">-</span><span class="token number">0.0</span><span class="token number">.1</span><span class="token operator">-</span><span class="token constant">SNAPSHOT</span><span class="token punctuation">.</span>jar <span class="token operator">&amp;</span>
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>启用一次没成功的话，再来一次</p><p>直接启用</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code> java <span class="token operator">-</span>jar adminApi<span class="token operator">-</span><span class="token number">0.0</span><span class="token number">.1</span><span class="token operator">-</span><span class="token constant">SNAPSHOT</span><span class="token punctuation">.</span>jar 
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>暂停某一服务</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code><span class="token function">lsof</span> <span class="token parameter variable">-i:5627</span>
+
+<span class="token function">kill</span> <span class="token parameter variable">-9</span> 进程id
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,7),p=[r];function t(c,l){return s(),n("div",null,p)}const d=a(i,[["render",t],["__file","启用jar包.html.vue"]]);export{d as default};

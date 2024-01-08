@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as _}from"./app-C59QzqDT.js";const c={},s=_("p",null,"今天突然发现vite项目有的页面不能热更新了",-1),n=_("p",null,"不用怀疑，就是那个页面在某个页面引用的时候大小写搞错了！",-1),l=[s,n];function a(r,i){return t(),o("div",null,l)}const f=e(c,[["render",a],["__file","vite部分页面不更新问题.html.vue"]]);export{f as default};

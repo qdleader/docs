@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54b1cb2e","path":"/vue3/vue3%E4%B8%AD%E7%9A%84Fragment.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"好处是什么呢？","slug":"好处是什么呢","link":"#好处是什么呢","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue3/vue3中的Fragment.md"}');export{e as data};

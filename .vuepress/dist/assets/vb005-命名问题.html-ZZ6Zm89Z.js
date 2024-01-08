@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8d1b8662","path":"/vue/vue%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/vb005-%E5%91%BD%E5%90%8D%E9%97%AE%E9%A2%98.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704694601000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"vue/vue最佳实践/vb005-命名问题.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e802ae8a","path":"/vue3/vue3%E4%B8%AD%E7%9A%84%E4%BC%98%E5%8A%BF.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"Vue3 主要在这几个方面进行了提升","slug":"vue3-主要在这几个方面进行了提升","link":"#vue3-主要在这几个方面进行了提升","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue3/vue3中的优势.md"}');export{e as data};
