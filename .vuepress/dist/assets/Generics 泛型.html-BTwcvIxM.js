@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-07be309a","path":"/Typescript/%E5%9F%BA%E7%A1%80/Generics%20%E6%B3%9B%E5%9E%8B.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704693834000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"Typescript/基础/Generics 泛型.md"}');export{e as data};

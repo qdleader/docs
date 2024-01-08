@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-337c3f0b","path":"/Typescript/%E5%9F%BA%E7%A1%80/%E6%98%A0%E5%B0%84%E7%B1%BB%E5%9E%8B.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Typescript/基础/映射类型.md"}');export{t as data};
