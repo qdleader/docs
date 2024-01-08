@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b5a68f20","path":"/react/%E5%9F%BA%E7%A1%80%E7%B1%BB/%E7%88%B6%E7%BB%84%E4%BB%B6%E8%B0%83%E7%94%A8%E5%AD%90%E7%BB%84%E4%BB%B6%E6%96%B9%E6%B3%95.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"react/基础类/父组件调用子组件方法.md"}');export{t as data};

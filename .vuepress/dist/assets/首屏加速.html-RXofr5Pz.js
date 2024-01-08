@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4465c25d","path":"/todo%20copy/%E9%A6%96%E5%B1%8F%E5%8A%A0%E9%80%9F.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"todo copy/首屏加速.md"}');export{t as data};

@@ -1,2 +1,0 @@
-import{_ as e,o as a,c as s,d as n}from"./app-pokGQ7aS.js";const t={},_=n(`<div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>oninput<span class="token operator">=</span><span class="token string">&quot;value=value.replace(/^(-?\\d*(?:\\.\\d{0,2})?).*/,&#39;$1&#39;)&quot;</span>
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>`,1),c=[_];function o(r,i){return a(),s("div",null,c)}const d=e(t,[["render",o],["__file","输入时候只能输入数字或小数.html.vue"]]);export{d as default};

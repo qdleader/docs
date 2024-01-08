@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6aec3264","path":"/react/%E5%9F%BA%E7%A1%80%E7%B1%BB/shouldComponentUpdate.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"react/基础类/shouldComponentUpdate.md"}');export{t as data};

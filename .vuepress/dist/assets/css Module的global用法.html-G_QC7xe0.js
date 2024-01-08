@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6e56eb92","path":"/react/css%20Module%E7%9A%84global%E7%94%A8%E6%B3%95.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"react/css Module的global用法.md"}');export{e as data};
