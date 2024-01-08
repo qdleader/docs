@@ -1,2 +1,0 @@
-import{_ as t,o as a,c as s,a as e}from"./app-1IAv0yAY.js";const n={},_=e("div",{class:"language-text line-numbers-mode","data-ext":"text"},[e("pre",{class:"language-text"},[e("code",null,`overflow-y: overlay;
-`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),l=[_];function c(o,r){return a(),s("div",null,l)}const i=t(n,[["render",c],["__file","滚动条不占空间.html.vue"]]);export{i as default};

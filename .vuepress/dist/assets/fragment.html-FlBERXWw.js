@@ -1,1 +1,0 @@
-import{_ as t,r as n,o as a,c as o,f as r,b as c,a as s}from"./app-1IAv0yAY.js";const _={},m=s("p",null,"区别是 Fragment 标签上可以加上key",-1);function l(f,d){const e=n("Fragment");return a(),o("div",null,[r(e),c(" 和 <></> 等效 ，编译成html 都会去掉"),m])}const i=t(_,[["render",l],["__file","fragment.html.vue"]]);export{i as default};
