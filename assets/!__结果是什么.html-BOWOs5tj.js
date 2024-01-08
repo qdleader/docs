@@ -1,0 +1,3 @@
+import{_ as e,o as a,c as t,d as n}from"./app-tSvYcIf0.js";const s={},d=n(`<h2 id="结果是什么" tabindex="-1"><a class="header-anchor" href="#结果是什么" aria-hidden="true">#</a> [] == ![]结果是什么？</h2><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>== 中，左右两边都需要转换为数字然后进行比较。 []转换为数字为0。 ![] 首先是转换为布尔值，由于[]作为一个引用类型转换为布尔值为true, 因此![]为false，进而在转换成数字，变为0。 0 == 0 ， 结果为true
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2),r=[d];function c(i,_){return a(),t("div",null,r)}const o=e(s,[["render",c],["__file","!__结果是什么.html.vue"]]);export{o as default};

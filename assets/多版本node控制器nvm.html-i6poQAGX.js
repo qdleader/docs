@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-35d11eb4","path":"/node/%E5%A4%9A%E7%89%88%E6%9C%ACnode%E6%8E%A7%E5%88%B6%E5%99%A8nvm.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704695029000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"node/多版本node控制器nvm.md"}');export{e as data};

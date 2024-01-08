@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1a3eeffc","path":"/tool%20copy/%E7%A6%81%E6%AD%A2%E6%89%93%E5%BC%80%E6%8E%A7%E5%88%B6%E5%8F%B0.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704695029000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"tool copy/禁止打开控制台.md"}');export{t as data};

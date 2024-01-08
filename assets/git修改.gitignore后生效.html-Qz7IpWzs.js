@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-45099826","path":"/git/git%E4%BF%AE%E6%94%B9.gitignore%E5%90%8E%E7%94%9F%E6%95%88.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704695029000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"git/git修改.gitignore后生效.md"}');export{t as data};

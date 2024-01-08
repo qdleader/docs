@@ -1,0 +1,1 @@
+import{_ as o,o as t,c,a as e}from"./app-tSvYcIf0.js";const s={},_=e("p",null,"vscode 下载插件 CodeGeeX",-1),n=e("p",null,"这个是免费的代码提示工具",-1),l=[_,n];function a(d,r){return t(),c("div",null,l)}const f=o(s,[["render",a],["__file","CodeGeex.html.vue"]]);export{f as default};

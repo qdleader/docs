@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3c93bd86","path":"/%E5%B8%B8%E7%94%A8%E6%AD%A3%E5%88%99/%E6%89%8B%E5%86%99trim%E6%96%B9%E6%B3%95.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704695029000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"常用正则/手写trim方法.md"}');export{t as data};

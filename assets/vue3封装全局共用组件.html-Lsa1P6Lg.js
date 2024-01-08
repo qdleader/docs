@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4ff93650","path":"/vue3/vue3%E5%B0%81%E8%A3%85%E5%85%A8%E5%B1%80%E5%85%B1%E7%94%A8%E7%BB%84%E4%BB%B6.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704695029000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"vue3/vue3封装全局共用组件.md"}');export{e as data};

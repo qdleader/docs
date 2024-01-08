@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-73a9c7d0","path":"/vue3/pinia/subscribe%E7%9A%84%E4%BD%BF%E7%94%A8.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704695029000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"vue3/pinia/$subscribe的使用.md"}');export{e as data};
