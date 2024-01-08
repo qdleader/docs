@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7ff7ee4c","path":"/Typescript/ts%E4%B8%AD%E7%9A%84_%E5%92%8C!%E7%94%A8%E6%B3%95.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"总结","slug":"总结","link":"#总结","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"Typescript/ts中的?和!用法.md"}');export{t as data};

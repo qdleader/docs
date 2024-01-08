@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-db01f1c8","path":"/react/%E5%9F%BA%E7%A1%80%E7%B1%BB/pureComponent.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"react/基础类/pureComponent.md"}');export{t as data};

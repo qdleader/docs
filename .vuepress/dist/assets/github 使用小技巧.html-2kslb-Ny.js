@@ -1,0 +1,1 @@
+import{_ as t,o as _,c as a,a as e,b as c}from"./app-G0TSq-iO.js";const o={},s=e("h2",{id:"在项目里面-搜索-文件",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#在项目里面-搜索-文件","aria-hidden":"true"},"#"),c(" 在项目里面 搜索 文件")],-1),n=e("p",null,"按下t键即可",-1),r=[s,n];function d(i,h){return _(),a("div",null,r)}const u=t(o,[["render",d],["__file","github 使用小技巧.html.vue"]]);export{u as default};

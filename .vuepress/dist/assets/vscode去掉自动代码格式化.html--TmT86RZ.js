@@ -1,0 +1,1 @@
+import{_,o,c as t,a as e}from"./app-G0TSq-iO.js";const s={},c=e("p",null,"打开 vscode 设置界面",-1),n=e("p",null,"搜索 editor.formatOnSave",-1),a=e("p",null,"然后把用户和工作区的 Format On Save 对勾都取消掉或改为false就ok",-1),l=[c,n,a];function r(d,i){return o(),t("div",null,l)}const m=_(s,[["render",r],["__file","vscode去掉自动代码格式化.html.vue"]]);export{m as default};

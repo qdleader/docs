@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as _}from"./app-G0TSq-iO.js";const s={},r=_("p",null,"function isInteger(x) { return parseInt(x, 10) === x; }",-1),c=[r];function o(a,i){return t(),n("div",null,c)}const f=e(s,[["render",o],["__file","实现函数isInteger.html.vue"]]);export{f as default};

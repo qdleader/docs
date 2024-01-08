@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-987ed684","path":"/tool%20copy/brew%E5%AE%89%E8%A3%85.html","title":"下载","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"加入到path","slug":"加入到path","link":"#加入到path","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"tool copy/brew安装.md"}');export{t as data};

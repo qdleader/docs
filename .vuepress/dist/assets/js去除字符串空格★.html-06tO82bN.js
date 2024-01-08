@@ -1,0 +1,1 @@
+import{_,o as s,c as t,a as e}from"./app-G0TSq-iO.js";const o={},c=e("p",null,"// 1.请用js去除字符串的空格? var str = ' qdleader like u';",-1),l=e("p",null,"console.log(str.replace(/\\s/ig,''))",-1),n=[c,l];function r(a,d){return s(),t("div",null,n)}const u=_(o,[["render",r],["__file","js去除字符串空格★.html.vue"]]);export{u as default};

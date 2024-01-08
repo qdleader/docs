@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-e97ae020","path":"/tool%20copy/mac%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%AE%9A%E6%97%B6%E5%BC%80%E5%85%B3%E6%9C%BA.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"tool copy/mac常用技巧/命令行定时开关机.md"}');export{t as data};
