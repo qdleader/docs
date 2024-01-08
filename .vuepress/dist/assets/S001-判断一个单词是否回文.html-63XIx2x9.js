@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ba5d18c6","path":"/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/S001-%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E6%98%AF%E5%90%A6%E5%9B%9E%E6%96%87.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"常见算法/S001-判断一个单词是否回文.md"}');export{t as data};

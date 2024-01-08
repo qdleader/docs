@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1e4d6e29","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E5%BC%82%E6%AD%A5/async(eventLoop%E7%B1%BB%E9%97%AE%E9%A2%98).html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/异步/async(eventLoop类问题).md"}');export{e as data};

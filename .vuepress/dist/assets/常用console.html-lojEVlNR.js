@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-eefb3efa","path":"/%E5%89%8D%E7%AB%AF%E5%B0%8Ftip/interestringTip/%E5%B8%B8%E7%94%A8console.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端小tip/interestringTip/常用console.md"}');export{t as data};

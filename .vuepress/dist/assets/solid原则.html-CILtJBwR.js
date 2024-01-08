@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-41f6e2d7","path":"/%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/solid%E5%8E%9F%E5%88%99.html","title":"S.O.L.I.D.","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"设计原则/solid原则.md"}');export{t as data};

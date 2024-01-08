@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-47c6e304","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%B1%BB/%E6%89%93%E5%8D%B0%E8%BE%93%E5%87%BA.html","title":"打印输出","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/其他类/打印输出.md"}');export{t as data};

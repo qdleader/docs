@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fa5c94ec","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E6%89%8B%E5%86%99%E7%B1%BB/S032-%E6%89%8B%E5%86%99Promise%E5%8A%A0%E8%BD%BD%E5%9B%BE%E7%89%87.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/手写类/S032-手写Promise加载图片.md"}');export{t as data};

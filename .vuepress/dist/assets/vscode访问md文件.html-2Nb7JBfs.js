@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5a4f6528","path":"/%E5%89%8D%E7%AB%AF%E5%B0%8Ftip/vscode%E8%AE%BF%E9%97%AEmd%E6%96%87%E4%BB%B6.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端小tip/vscode访问md文件.md"}');export{t as data};

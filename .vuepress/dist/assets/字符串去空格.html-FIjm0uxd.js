@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,a as o}from"./app-otDwoQZb.js";const c={},n=o("p",null,"String.prototype.trim = function() { return this.replace(/^\\s+|\\s+$/g,'') }",-1),r=[n];function s(a,l){return t(),_("div",null,r)}const f=e(c,[["render",s],["__file","字符串去空格.html.vue"]]);export{f as default};

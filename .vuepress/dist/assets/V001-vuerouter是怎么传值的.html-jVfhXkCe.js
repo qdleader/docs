@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7ee7debc","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/vue%E7%AF%87/V001-vuerouter%E6%98%AF%E6%80%8E%E4%B9%88%E4%BC%A0%E5%80%BC%E7%9A%84.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/vue篇/V001-vuerouter是怎么传值的.md"}');export{e as data};

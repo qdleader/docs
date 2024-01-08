@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7565558d","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/vue%E7%AF%87/V004-%E5%90%8C%E7%BA%A7%E7%BB%84%E4%BB%B6%E4%BC%A0%E5%80%BC.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/vue篇/V004-同级组件传值.md"}');export{t as data};

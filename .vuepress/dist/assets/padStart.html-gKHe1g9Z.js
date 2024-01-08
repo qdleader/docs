@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-716fdcb2","path":"/%E5%89%8D%E7%AB%AF%E5%B0%8Ftip/interestringTip/padStart.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端小tip/interestringTip/padStart.md"}');export{t as data};

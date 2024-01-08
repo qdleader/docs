@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-17b7e504","path":"/%E5%89%8D%E7%AB%AF%E5%B0%8Ftip/%E5%88%A4%E6%96%AD%E6%98%AF%E6%89%8B%E6%9C%BA%E8%BF%98%E6%98%AFpc.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端小tip/判断是手机还是pc.md"}');export{t as data};

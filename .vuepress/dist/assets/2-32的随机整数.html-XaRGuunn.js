@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6088c387","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%B1%BB/2-32%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%95%B4%E6%95%B0.html","title":"2-32的随机整数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/其他类/2-32的随机整数.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6dd7c648","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/promise%E7%B1%BB/P-001%E6%89%A7%E8%A1%8C%E6%89%93%E5%8D%B0.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/promise类/P-001执行打印.md"}');export{t as data};

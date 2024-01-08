@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-78ce140b","path":"/%E5%BE%AE%E5%89%8D%E7%AB%AF/qiankun/1.%E5%AD%90%E5%BA%94%E7%94%A8%E8%B7%AF%E7%94%B1%E8%B7%B3%E8%BD%AC.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"微前端/qiankun/1.子应用路由跳转.md"}');export{t as data};

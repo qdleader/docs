@@ -1,0 +1,1 @@
+const E=JSON.parse('{"key":"v-e18ee3e6","path":"/%E5%BE%AE%E5%89%8D%E7%AB%AF/qiankun/%E5%BE%AE%E5%BA%94%E7%94%A8%E9%9C%80%E8%A6%81%E6%94%AF%E6%8C%81%E8%B7%A8%E5%9F%9F%E8%AE%BF%E9%97%AE.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"微前端/qiankun/微应用需要支持跨域访问.md"}');export{E as data};

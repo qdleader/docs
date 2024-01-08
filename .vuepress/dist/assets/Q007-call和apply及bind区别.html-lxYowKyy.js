@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-44f98504","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%B1%BB/Q007-call%E5%92%8Capply%E5%8F%8Abind%E5%8C%BA%E5%88%AB.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/其他类/Q007-call和apply及bind区别.md"}');export{t as data};
