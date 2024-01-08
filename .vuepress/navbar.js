@@ -1,5 +1,15 @@
 export const navbar = [
 	{
+		text: "http",
+		link: "/http/",
+		children: [
+			{
+				text: "http007-TCP和UDP的区别.md",
+				link: "/http/http007-TCP和UDP的区别.md",
+			},
+		],
+	},
+	{
 		text: "前端面试题",
 		link: "/前端面试题/",
 		children: [
