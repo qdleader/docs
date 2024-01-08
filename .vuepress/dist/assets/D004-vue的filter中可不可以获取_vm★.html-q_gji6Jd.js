@@ -1,0 +1,5 @@
+import{_ as e,o as t,c as i,d as n}from"./app-gxPsN6Nl.js";const r={},s=n(`<h1 id="vue中filter能不能写异步代码-能不能获取-vm" tabindex="-1"><a class="header-anchor" href="#vue中filter能不能写异步代码-能不能获取-vm" aria-hidden="true">#</a> Vue中filter能不能写异步代码，能不能获取$vm？</h1><p>#答案是： 不可以</p><p>#解析：</p><p>比如当写一个vue时间戳过滤器时候，用this调用别的方法:</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>execute_time(time) {
+      if (time === 0) return &#39;/&#39;
+      else return this.getTime(time)
+    }
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>我发现报了个&quot;TypeError: Cannot read property ‘getTime’ of undefined&quot;，我第一时间就打印了this，果然是undefined。</p><p>官方文档中：过滤器filters的说明是： vue中的过滤器更偏向于对文本数据的转化， 而不能依赖this上下文，如果需要使用到上下文this我们应该使用computed计算属性的或者一个method方法。</p>`,7),d=[s];function a(l,c){return t(),i("div",null,d)}const o=e(r,[["render",a],["__file","D004-vue的filter中可不可以获取_vm★.html.vue"]]);export{o as default};

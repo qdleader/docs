@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as s,a as e}from"./app-gxPsN6Nl.js";const n={},_=e("p",null,"VSCode 的命令行输入 gitlens，然后选 “GitLens: Set Views Layout”，重新设置一下布局。",-1),l=e("ol",null,[e("li",null,"Command + P：按路径查找文件（输入“>”就变成输入命令模式）")],-1),c=[_,l];function i(a,r){return t(),s("div",null,c)}const u=o(n,[["render",i],["__file","vscode中git不展示lineHostory.html.vue"]]);export{u as default};
