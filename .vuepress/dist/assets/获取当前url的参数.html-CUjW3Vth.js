@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-99472bac","path":"/%E5%89%8D%E7%AB%AF%E5%B0%8Ftip/%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8Durl%E7%9A%84%E5%8F%82%E6%95%B0.html","title":"正则 方式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端小tip/获取当前url的参数.md"}');export{t as data};

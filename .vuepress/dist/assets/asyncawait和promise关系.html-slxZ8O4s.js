@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-1038f873","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E5%BC%82%E6%AD%A5/asyncawait%E5%92%8Cpromise%E5%85%B3%E7%B3%BB.html","title":"async/await 和 promise 关系。","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/异步/asyncawait和promise关系.md"}');export{a as data};

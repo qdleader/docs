@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a21edc3a","path":"/%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/vscode%E6%8E%A8%E8%8D%90%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704692833000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"前端规范/vscode推荐插件安装.md"}');export{t as data};

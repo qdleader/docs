@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-e78b5dac","path":"/%E5%89%8D%E7%AB%AF%E5%B0%8Ftip/%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%AD%97%E7%AC%A6%E4%B8%B2.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端小tip/获取随机字符串.md"}');export{t as data};

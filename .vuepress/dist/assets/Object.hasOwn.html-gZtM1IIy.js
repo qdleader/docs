@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7bae4fc4","path":"/es6/Object.hasOwn.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":3,"title":"Object.hasOwn(obj, propKey)","slug":"object-hasown-obj-propkey","link":"#object-hasown-obj-propkey","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"es6/Object.hasOwn.md"}');export{e as data};

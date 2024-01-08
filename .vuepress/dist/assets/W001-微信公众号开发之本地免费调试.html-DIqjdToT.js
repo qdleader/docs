@@ -1,0 +1,5 @@
+import{_ as t,r as s,o as _,c,a as e,b as o,f as i}from"./app-xrgnhFxe.js";const l={},r={href:"http://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index",target:"_blank",rel:"noopener noreferrer"},a=e("p",null,"进行设置。当然你要有公司的公众号使用权利，直接设置公司的也可以。",-1),d=e("ol",{start:"2"},[e("li")],-1),p=e("p",null,"js接口安全域名修改比如",-1),u=e("p",null,"baidu.com",-1),h=e("p",null,"3.绑定回调接口 baidu.com",-1),m=e("p",null,"4.配置本地host (地址C:\\Windows\\System32\\drivers\\etc 里面的hosts，用记事本打开加上如下一行代码保存即可， ip为你的电脑ip，地址你要本地访问的域名) 192.168.1.108 baidu.com",-1),f=e("p",null,"5.在你的config中的index.js中 host: 'baidu.com', // can be overwritten by process.env.HOST port: 80,",-1),b=e("pre",null,[e("code",null,`启动项目，输入域名，就是你本地跑的的代码了
+
+
+（待完善。。。）
+`)],-1);function x(v,k){const n=s("ExternalLinkIcon");return _(),c("div",null,[e("p",null,[o("#微信开发之本地调试篇 （作者直接用vue开发的一个h5知识付费商城）总结开发中的问题，帮你少踩坑 1.首先你要登陆这个账号 1."),e("a",r,[o("微信开发公众平台"),i(n)])]),a,d,p,u,h,m,f,b])}const w=t(l,[["render",x],["__file","W001-微信公众号开发之本地免费调试.html.vue"]]);export{w as default};

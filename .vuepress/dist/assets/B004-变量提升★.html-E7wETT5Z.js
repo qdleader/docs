@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-60f410ab","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E5%8F%98%E9%87%8F%E7%B1%BB/B004-%E5%8F%98%E9%87%8F%E6%8F%90%E5%8D%87%E2%98%85.html","title":"B004-变量提升★","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/变量类/B004-变量提升★.md"}');export{t as data};

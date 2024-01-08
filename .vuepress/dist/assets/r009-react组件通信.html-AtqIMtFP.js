@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-424bd322","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/react%E7%AF%87/r009-react%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/react篇/r009-react组件通信.md"}');export{t as data};

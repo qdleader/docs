@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-6ad60a69","path":"/less_scss/L002-less%E5%8F%98%E9%87%8F.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"less&scss/L002-less变量.md"}');export{s as data};

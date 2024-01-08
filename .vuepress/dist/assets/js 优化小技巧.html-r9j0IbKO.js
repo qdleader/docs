@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-5860f33f","path":"/%E5%89%8D%E7%AB%AF%E5%B0%8Ftip/interestringTip/js%20%E4%BC%98%E5%8C%96%E5%B0%8F%E6%8A%80%E5%B7%A7.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端小tip/interestringTip/js 优化小技巧.md"}');export{t as data};

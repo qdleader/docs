@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-eeee297a","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E6%89%8B%E5%86%99%E7%B1%BB/S027-%E5%87%BD%E6%95%B0%E6%9F%AF%E7%90%86%E5%8C%96%E2%98%85%E2%98%85.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/手写类/S027-函数柯理化★★.md"}');export{e as data};

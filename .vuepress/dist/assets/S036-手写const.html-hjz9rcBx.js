@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6cff95fe","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E6%89%8B%E5%86%99%E7%B1%BB/S036-%E6%89%8B%E5%86%99const.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/手写类/S036-手写const.md"}');export{t as data};

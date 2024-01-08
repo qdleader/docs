@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-227d561f","path":"/%E5%B8%B8%E8%A7%81%E7%AE%97%E6%B3%95/S010-%E5%AE%9E%E7%8E%B0%E7%B1%BB%E4%BC%BCgetElementsByClassName%E7%9A%84%E5%8A%9F%E8%83%BD.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"常见算法/S010-实现类似getElementsByClassName的功能.md"}');export{e as data};

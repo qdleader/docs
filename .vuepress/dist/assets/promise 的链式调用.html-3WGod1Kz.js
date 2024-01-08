@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-082e4def","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/promise%E7%B1%BB/promise%20%E7%9A%84%E9%93%BE%E5%BC%8F%E8%B0%83%E7%94%A8.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/promise类/promise 的链式调用.md"}');export{e as data};

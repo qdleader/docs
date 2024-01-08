@@ -1,0 +1,1 @@
+const s=JSON.parse('{"key":"v-5ad97c93","path":"/less_scss/L003-Mixins.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"less&scss/L003-Mixins.md"}');export{s as data};

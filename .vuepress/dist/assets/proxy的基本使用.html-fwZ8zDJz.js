@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-8a1a0dac","path":"/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95/js%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%B1%BB/proxy%E7%B1%BB/proxy%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"前端面试/js类/其他类/proxy类/proxy的基本使用.md"}');export{t as data};
