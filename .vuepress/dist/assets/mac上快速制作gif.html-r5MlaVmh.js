@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2595bd3a","path":"/tool/mac%E4%B8%8A%E5%BF%AB%E9%80%9F%E5%88%B6%E4%BD%9Cgif.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"下载 视频转gif 工具","slug":"下载-视频转gif-工具","link":"#下载-视频转gif-工具","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"tool/mac上快速制作gif.md"}');export{t as data};

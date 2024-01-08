@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-0a886d78","path":"/es6/%E8%BE%83%E5%86%B7%E9%97%A8/ES11-bigInt.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"BigInt","slug":"bigint","link":"#bigint","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"es6/较冷门/ES11-bigInt.md"}');export{t as data};

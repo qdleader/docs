@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3c124798","path":"/less_scss/L006-%E5%87%BD%E6%95%B0.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704692916000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"less&scss/L006-函数.md"}');export{t as data};

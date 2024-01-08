@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-14c2ed22","path":"/less_scss/S001-%E9%85%8D%E7%BD%AE%E5%85%AC%E7%94%A8%E4%B8%BB%E9%A2%98%E8%89%B2.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704692916000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"less&scss/S001-配置公用主题色.md"}');export{t as data};

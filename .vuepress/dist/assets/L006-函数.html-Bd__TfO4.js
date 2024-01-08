@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-3c124798","path":"/less_scss/L006-%E5%87%BD%E6%95%B0.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"less&scss/L006-函数.md"}');export{t as data};

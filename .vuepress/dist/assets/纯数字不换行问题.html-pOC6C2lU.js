@@ -1,2 +1,0 @@
-import{_ as t,o as a,c as s,a as e}from"./app-xrgnhFxe.js";const n={},_=e("p",null,"输入纯数字或字母",-1),l=e("div",{class:"language-text line-numbers-mode","data-ext":"text"},[e("pre",{class:"language-text"},[e("code",null,`word-break: break-all;
-`)]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("div",{class:"line-number"})])],-1),c=[_,l];function o(r,d){return a(),s("div",null,c)}const u=t(n,[["render",o],["__file","纯数字不换行问题.html.vue"]]);export{u as default};

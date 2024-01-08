@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-00340c12","path":"/tool/%E7%A6%81%E6%AD%A2%E6%89%93%E5%BC%80%E6%8E%A7%E5%88%B6%E5%8F%B0.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"tool/禁止打开控制台.md"}');export{t as data};

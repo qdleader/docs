@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-098f127a","path":"/css3/background-clip%E8%AE%BE%E7%BD%AE%E6%96%87%E5%AD%97%E8%83%8C%E6%99%AF.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704692916000,"contributors":[{"name":"前端架构师","email":"yangkun@icourt.cc","commits":1}]},"filePathRelative":"css3/background-clip设置文字背景.md"}');export{t as data};
