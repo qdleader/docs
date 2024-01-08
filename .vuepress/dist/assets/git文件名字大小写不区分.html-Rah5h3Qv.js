@@ -1,3 +1,0 @@
-import{_ as e,o as t,c as a,d as i}from"./app-gxPsN6Nl.js";const s={},n=i(`<div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>git config --get core.ignorecase 
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>得到的结果是false 说明我本地已经配置了 区分大小写了， 如果 窗口提示为true执行下列代码</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>git config core.ignorecase false 
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>`,3),c=[n];function d(r,l){return t(),a("div",null,c)}const _=e(s,[["render",d],["__file","git文件名字大小写不区分.html.vue"]]);export{_ as default};

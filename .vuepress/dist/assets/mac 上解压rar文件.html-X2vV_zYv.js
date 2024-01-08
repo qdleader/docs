@@ -1,4 +1,0 @@
-import{_ as a,o as e,c as s,d as r}from"./app-gxPsN6Nl.js";const n={},i=r(`<p>Just use brew install rar instead of brew install unrar</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>brew install rar
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2 id="解压" tabindex="-1"><a class="header-anchor" href="#解压" aria-hidden="true">#</a> 解压</h2><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>unrar x <span class="token operator">&lt;</span>filename<span class="token operator">&gt;</span>
-
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,4),t=[i];function c(d,l){return e(),s("div",null,t)}const u=a(n,[["render",c],["__file","mac 上解压rar文件.html.vue"]]);export{u as default};
