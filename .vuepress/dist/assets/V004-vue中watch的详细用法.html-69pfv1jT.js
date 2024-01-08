@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8993abcc","path":"/vue/V004-vue%E4%B8%ADwatch%E7%9A%84%E8%AF%A6%E7%BB%86%E7%94%A8%E6%B3%95.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"3.deep","slug":"_3-deep","link":"#_3-deep","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"vue/V004-vue中watch的详细用法.md"}');export{e as data};

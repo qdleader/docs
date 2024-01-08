@@ -1,3 +1,0 @@
-import{_ as e,o as t,c as a,d as s}from"./app-FRQgbCNf.js";const i={},o=s(`<h2 id="ios-手机容器滚动条滑动不流畅" tabindex="-1"><a class="header-anchor" href="#ios-手机容器滚动条滑动不流畅" aria-hidden="true">#</a> IOS 手机容器滚动条滑动不流畅</h2><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>overflow: auto;
--webkit-overflow-scrolling: touch;
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2),n=[o];function c(r,d){return t(),a("div",null,n)}const _=e(i,[["render",c],["__file","ios滑动不顺畅.html.vue"]]);export{_ as default};
